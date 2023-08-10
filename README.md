@@ -1,11 +1,11 @@
 👋 Hi there! I'm Ankita Shekhawat, a passionate Python developer specializing in Django web development and enthusiastic about the world of AI and Machine Learning.
 
 🔧 My Toolbox:
-🌐 Django | Flask
-📦 REST APIs
-📊 PostgreSQL | MySQL
-🎨 HTML | CSS | JavaScript
-🐍 Python
+- 🌐 Django | Flask
+- 📦 REST APIs
+- 📊 PostgreSQL | MySQL
+- 🎨 HTML | CSS | JavaScript
+- 🐍 Python
 
 🤖 I'm deeply intrigued by the possibilities of Artificial Intelligence and Machine Learning. Whether it's building intelligent chatbots, exploring neural networks, or diving into data analysis, I'm always up for a challenge.
 
